@@ -119,6 +119,12 @@ span{
 
 }
 
+/* added .home selector for HTML line 34 and 36 to change the font size */
+.home p{
+
+    font-size: 1.6rem;
+}
+
 .home-img{
     border-radius: 100%;
 }
